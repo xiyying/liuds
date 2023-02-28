@@ -1,0 +1,45 @@
+<html>
+ <head> 
+  <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
+  <title>刘大帅</title> 
+  <script src="js/jq.js"></script> 
+ </head> 
+ <style>
+  h1,h3,h6{
+    text-align:center}
+  
+  img{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px #888888;
+    
+   }
+ 
+ </style>
+ <body>
+ <div style="
+ 
+ text-align:center
+ ">
+ <img src="zp.jpg"/></div>
+ </div>
+ <h1>刘大帅</h1>
+ <h3>网络作家，舔狗九段，<a href="https://vhsagj.smartapps.baidu.com/pages/lemma/lemma?lemmaTitle=%E5%A1%98%E7%94%B0%E5%B8%82%E9%95%87&lemmaId=6527791&from=bottomBarShare&_swebfr=1&_swebFromHost=vivobrowser&bdswankey=vivobrowser%3A%2F%2Fswan%2FAZQtr4jkpf90T3X9QMWVLF1bkeV4LXxD%2Fpages%2Flemma%2Flemma%3FlemmaTitle%3D%25E5%25A1%2598%25E7%2594%25B0%25E5%25B8%2582%25E9%2595%2587%26lemmaId%3D6527791%26searchParams%3D%257B%2522failUrl%2522%253A%2522https%253A%255C%252F%255C%252Fbaike.baidu.com%255C%252Fitem%255C%252F%2525E5%2525A1%252598%2525E7%252594%2525B0%2525E5%2525B8%252582%2525E9%252595%252587%255C%252F6527791%2522%257D%26useTpl%3D1">塘田市</a>最自恋的人</h3>
+ <h6>代表作有<a href="https://fanqienovel.com/">《搞笑男不适合穿越》</a><br><br>《孤城飘雪》<br><br>《落花流水落花剑》</h6>
+ <hr/>
+ <h3>—— 个人荣誉 ——<br><br>2013年儿童田径世界冠军<br><br>2014因成绩优异位列世界第二<br><br>2015年因实力出众碾压博尔特使其退役<br><br>2017登顶世界第一<br><br>同年五月入选名人堂<br><br>2018年追小偷被跳楼少女砸伤失去记忆<br><br>2019开始新的人生</h3><hr/>
+ <h2>相册合集:</h2>
+ <div class="heji">
+ <img src="zp2.png"/>2019年照片(未更新)
+ <hr>
+ <h2>游戏视频合集:</h2>
+ <video width="320" height="240" controls>
+  <source src="sp.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+ 
+ 
+ 
+ </div>
+ </body>
+</html>
